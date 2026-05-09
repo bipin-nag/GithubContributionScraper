@@ -1,0 +1,23 @@
+{
+  "name": "githubcontributionscraper",
+  "type":"commonjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "screenshotUserContribution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bipin-nag/GithubContributionScraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bipin-nag/GithubContributionScraper/issues"
+  },
+  "homepage": "https://github.com/bipin-nag/GithubContributionScraper#readme",
+  "dependencies": {
+    "puppeteer": "^24.43.0"
+  }
+}
